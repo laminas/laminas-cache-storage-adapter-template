@@ -1,6 +1,6 @@
 # laminas-cache-storage-adapter-{adapter}
 
-[![Build Status](https://github.com/laminas/laminas-cache-storage-adapter-{adapter}/workflows/Continuous%20Integration/badge.svg)](https://github.com/laminas/laminas-cache-storage-adapter-{adapter}/actions?query=workflow%3A"Continuous+Integration")
+[![Build Status](https://github.com/laminas/laminas-cache-storage-adapter-{adapter}/workflows/continuous-integration.yml/badge.svg)](https://github.com/laminas/laminas-cache-storage-adapter-{adapter}/actions/workflows/continuous-integration.yml)
 
 This library provides …
 

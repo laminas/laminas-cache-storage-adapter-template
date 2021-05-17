@@ -21,8 +21,7 @@
     "config": {
         "sort-packages": true
     },
-    "extra": {
-    },
+    "extra": {},
     "autoload": {
         "psr-4": {
             "Laminas\\Cache\\Storage\\Adapter\\": "src/"

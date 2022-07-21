@@ -8,14 +8,14 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": "^7.4 || ~8.0.0",
-        "laminas/laminas-cache": "^2.10@dev"
+        "laminas/laminas-cache": "^2.10@dev || ^3.0.0@dev@dev"
     },
     "provide": {
         "laminas/laminas-cache-storage-implementation": "1.0"
     },
     "require-dev": {
-        "laminas/laminas-cache-storage-adapter-test": "^1.0@dev",
-        "laminas/laminas-coding-standard": "~1.0.0",
+        "laminas/laminas-cache-storage-adapter-test": "^2.0.0@dev",
+        "laminas/laminas-coding-standard": "~2.3.0",
         "squizlabs/php_codesniffer": "^3.0"
     },
     "config": {
